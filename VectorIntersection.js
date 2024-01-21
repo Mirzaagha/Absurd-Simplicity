@@ -7,5 +7,5 @@ function Intersection(v,v2){
   w = k1-k2;
   z = b2-b1;
   x = z/w;
-  y = k1 * z/w - b1;
+  y = k1 * z/w + b1;
 }
